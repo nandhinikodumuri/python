@@ -32,6 +32,7 @@ if num == 0:
 else:
     print("number is non zero")
 
+
 a = int(input("Enter a number:"))
 b = int(input("Enter a number:"))
 c = int(input("Enter a number:"))
