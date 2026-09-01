@@ -93,4 +93,6 @@ for i in range(1,6):
         print(c, end=" ")
         c = c + 1
     print()
-
+number = 20
+print a + b 
+print a - b
