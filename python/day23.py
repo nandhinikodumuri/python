@@ -9,14 +9,14 @@ class Student1:
     def __init__(self, name, age):
         self.name = name
         self.age = age
-s1 = Student1("Sharmila", 22)
+s1 = Student1("Nandhini", 22)
 print(s1.name)
 print(s1.age)
 
 #Non-Parameterized Constructor
 class Student:
     def __init__(self):
-        self.name = "Sharmila"
+        self.name = "Nandhini"
         self.age = 22
 s1 = Student()
 print(s1.name)
