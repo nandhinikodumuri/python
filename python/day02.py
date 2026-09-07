@@ -81,3 +81,10 @@ del x
 import keyword
 
 print(keyword.kwlist)
+
+name='Nandhini'
+id=523
+college="Saveetha engineering college"
+print("Name:",name)
+print("ID:",id)
+print("College:",college)
